@@ -1,0 +1,41 @@
+  
+    =========== ASEPR BANK ===========
+    -------- STRUK TRANSAKSI ---------
+    Waktu       : 2025-06-25 20:59:58
+    Transaksi   : Tarik Tunai
+    Nomor Rek.  : 12345678
+    Jumlah      : Rp 24000
+    Saldo akhir : Rp 476000
+    Nama        : ASEP ROHMAT
+    Terima kasih telah menggunakan ATM
+    ==================================  
+    =========== ASEPR BANK ===========
+    -------- STRUK TRANSAKSI ---------
+    Waktu       : 2025-06-25 22:43:29
+    Transaksi   : Tarik Tunai
+    Nomor Rek.  : 12345678
+    Jumlah      : Rp 25000
+    Saldo akhir : Rp 475000
+    Nama        : ASEP ROHMAT
+    Terima kasih telah menggunakan ATM
+    ==================================  
+    =========== ASEPR BANK ===========
+    -------- STRUK TRANSAKSI ---------
+    Waktu       : 2025-06-25 23:38:23
+    Transaksi   : Tarik Tunai
+    Nomor Rek.  : 12345678
+    Jumlah      : Rp 35000
+    Saldo akhir : Rp 465000
+    Nama        : ASEP ROHMAT
+    Terima kasih telah menggunakan ATM
+    ==================================  
+    =========== ASEPR BANK ===========
+    -------- STRUK TRANSAKSI ---------
+    Waktu       : 2025-06-26 00:34:28
+    Transaksi   : Tarik Tunai
+    Nomor Rek.  : 12345678
+    Jumlah      : Rp 34000
+    Saldo akhir : Rp 466000
+    Nama        : ASEP ROHMAT
+    Terima kasih telah menggunakan ATM
+    ==================================
